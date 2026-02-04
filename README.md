@@ -125,7 +125,7 @@ Our analysis in Section 3 reveals critical insights:
 
 This project is for educational purposes as part of academic coursework.
 
-## 👤 Author
+## 👤 Authors
 
 Aya - [GitHub Profile](https://github.com/ayabelarbi)
 Aline - [GitHub Profile](https://github.com/alineuh)
